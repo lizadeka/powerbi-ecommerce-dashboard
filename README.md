@@ -28,6 +28,21 @@ The project uses two tables:
 <img width="1322" height="737" alt="image" src="https://github.com/user-attachments/assets/83c48470-d2b6-49d7-b357-eb4e554c7fea" />
 
 
+Key Metrics
+
+    Total Sales Amount: 438K
+    Total Quantity Sold: 5615
+    Total Profit: 37K
+    Average Order Value (AOV): 121K
+    Breakdowns: Profit, Amount, and Quantity analyzed by Category, Sub-Category, Customer and State
+
+Key Insights
+
+    Profits showed volatility, with noticeable dips in May, July, September and December.
+    Printers and Bookcases are top profit-driving sub-categories.
+    Clothing leads in sales quantity, while Electronics contribute significantly in revenue.
+    Maharashtra and Madhya Pradesh are leading states in revenue.
+  
 ## 🛠️ Tools & Technologies
 
 - Power BI Desktop – Data cleaning, modeling, and visualization
