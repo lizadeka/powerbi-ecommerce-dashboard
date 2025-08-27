@@ -3,7 +3,7 @@ Interactive ecommerce sales dashboard in Power BI — built using Details and Or
 
 ## 📌 Project Overview
 
-This project analyzes Madhav Ecommerce sales performance using Power BI.
+This is my first Power BI dashboard project, built to analyze Madhav Ecommerce sales performance.
 The dashboard provides insights into orders, revenue, and customer trends, helping track sales growth and performance metrics.
 
 ## 🗂️ Dataset
