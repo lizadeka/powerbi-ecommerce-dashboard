@@ -13,7 +13,7 @@ The project uses two tables:
 - Details Table – Order ID, Quantity, Amount, Profit, Category, Sub-Category, PaymentMode
 - Orders Table – Order ID, Order Date, CustomerName, State, City
 
-(Data was provided as part of the Madhav Ecommerce case study.)
+(Dataset : https://www.kaggle.com/datasets/mohammadkaiftahir/madhav-store-dataset)
 
 ## 📈 Dashboard Preview
 
